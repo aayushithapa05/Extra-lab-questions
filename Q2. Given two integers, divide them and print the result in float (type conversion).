@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+int main()
+{
+    int a;
+    float div,b;
+    printf("Enter a number 1 ..");
+    scanf("%d",&a);
+    printf("Enter a number 2 ..");
+    scanf("%f",&b);
+    div=a/b;
+    printf("%.2f",div);
+}
