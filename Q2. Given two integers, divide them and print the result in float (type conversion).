@@ -10,4 +10,5 @@ int main()
     scanf("%f",&b);
     div=a/b;
     printf("%.2f",div);
+    return 0;
 }
